@@ -1,5 +1,5 @@
-# 💫 About Me:
-Helloo....<br>My name is Drona Srivastava.<br>B.Tech student at VIT Chennai<br>I love open source and web-development
+<h1 align="center">Hi 👋, I'm Drona Srivastav</h1>
+I am a B.Tech student at VIT Chennai<br>I love open source and web-development
 
 
 ## 🌐 Socials:
