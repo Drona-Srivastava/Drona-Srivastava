@@ -1,8 +1,6 @@
 # 💫 About Me:
 Helloo....<br>My name is Drona Srivastava.<br>B.Tech student at VIT Chennai<br>I love open source and web-development
-- 🔭 I’m currently working on many things
-- 🌱 I’m currently learning Web-Development [Full-Stack]
-- 😄 Pronouns: He/Him
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/drona_16/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/drona-srivastava-141a4a288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/drona_16) 
@@ -14,12 +12,13 @@ Helloo....<br>My name is Drona Srivastava.<br>B.Tech student at VIT Chennai<br>I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Drona-Srivastava&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Drona-Srivastava&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Drona-Srivastava&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Drona-Srivastava&icon=1&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Drona-Srivastava&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drona-srivastava" alt="drona-srivastava" /></a> </p>
