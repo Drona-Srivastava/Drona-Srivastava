@@ -12,13 +12,8 @@ I am a B.Tech student at VIT Chennai<br>I love open source and web-development
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Drona-Srivastava&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Drona-Srivastava&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Drona-Srivastava&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Drona-Srivastava&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
