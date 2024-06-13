@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Drona Srivastava</h1>
 A second year CSE Undergrad at VIT Chennai, aspiring Software Engineer, and Programming enthusiast.
 <p>I've recently started exploring the world of open source, driven by my belief in the power of collaboration and community-driven development to create impactful software solutions.</p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/drona_16/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/drona-srivastava-141a4a288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/drona_16) 
 
@@ -26,15 +28,15 @@ A second year CSE Undergrad at VIT Chennai, aspiring Software Engineer, and Prog
 <summary><b>⚙️ GitHub Analytics</b></summary><br>
   <div align="center">
     <!-- Graph of Commits -->
-    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drona Srivastava&theme=github_dark" alt="Graph of Commits" />
+    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drona-Srivastava&theme=github_dark" alt="Graph of Commits" />
     <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Drona Srivastava&theme=github_dark" alt="Top Languages" />
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Drona-Srivastava&theme=github_dark" alt="Top Languages" />
     <!-- GitHub stats -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drona Srivastava&theme=github_dark" alt="GitHub Stats" />
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drona-Srivastava&theme=github_dark" alt="GitHub Stats" />
       <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Drona Srivastava&theme=github_dark" alt="Most Commit Languages" />
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Drona-Srivastava&theme=github_dark" alt="Most Commit Languages" />
     <!-- Histogram of Commits -->
-    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Drona Srivastava&theme=github_dark" alt="Histogram of Commits" /></br>
+    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Drona-Srivastava&theme=github_dark" alt="Histogram of Commits" /></br>
   </div>
 
 
