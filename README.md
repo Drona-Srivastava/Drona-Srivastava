@@ -26,15 +26,15 @@ A second year CSE Undergrad at VIT Chennai, aspiring Software Engineer, and Prog
 <summary><b>⚙️ GitHub Analytics</b></summary><br>
   <div align="center">
     <!-- Graph of Commits -->
-    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DronaSrivastava&theme=github_dark" alt="Graph of Commits" />
+    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drona Srivastava&theme=github_dark" alt="Graph of Commits" />
     <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DronaSrivastava&theme=github_dark" alt="Top Languages" />
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Drona Srivastava&theme=github_dark" alt="Top Languages" />
     <!-- GitHub stats -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DronaSrivastava&theme=github_dark" alt="GitHub Stats" />
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drona Srivastava&theme=github_dark" alt="GitHub Stats" />
       <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DronaSrivastava&theme=github_dark" alt="Most Commit Languages" />
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Drona Srivastava&theme=github_dark" alt="Most Commit Languages" />
     <!-- Histogram of Commits -->
-    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DronaSrivastava&theme=github_dark" alt="Histogram of Commits" /></br>
+    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Drona Srivastava&theme=github_dark" alt="Histogram of Commits" /></br>
   </div>
 
 
