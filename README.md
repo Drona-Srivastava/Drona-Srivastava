@@ -5,7 +5,7 @@ A second year CSE Undergrad at VIT Chennai, aspiring Software Engineer, and Prog
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drona-srivastava-141a4a288/) 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-008080)](https://drona-srivastava-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-008080)](https://portfolio.dronalabs.tech/)
 
 
 # 💻 Tech Stack:
