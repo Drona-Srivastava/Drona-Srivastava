@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Drona Srivastava</h1>
-A second year CSE Undergrad at VIT Chennai, aspiring Software Engineer, and Programming enthusiast.
+A fourth year CSE Undergrad at VIT Chennai, aspiring Software Engineer, and Programming enthusiast.
 <p>I've recently started exploring the world of open source, driven by my belief in the power of collaboration and community-driven development to create impactful software solutions.</p>
 
 
